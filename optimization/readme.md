@@ -4,5 +4,3 @@ Optimization, a potent prescriptive analysis, serves as the guiding force that m
 
 # 🚨 Disclaimer
 This optimizer is so powerful; it might accidentally solve world hunger. Use responsibly.
-
-Optimize like nobody's watching! 🚀
