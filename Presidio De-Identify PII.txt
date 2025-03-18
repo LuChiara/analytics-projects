@@ -1,1 +1,0 @@
-[Data Privacy Identification and Scrubbing](https://github.com/LuChiara/data-privacy-identification-and-scrubbing)
